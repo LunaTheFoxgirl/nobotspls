@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/nobotspls
+nobotspls.so
+nobotspls.dylib
+nobotspls.dll
+nobotspls.a
+nobotspls.lib
+nobotspls-test-*
+*.exe
+*.o
+*.obj
+*.lst
+dub.selections.json
+out/

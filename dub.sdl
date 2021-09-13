@@ -1,0 +1,7 @@
+name "nobotspls"
+description "Proof-of-concept anti hate-raid twitch irc bot"
+authors "Luna"
+copyright "Copyright © 2021, Luna"
+license "BSD 2-clause"
+dependency "vibeirc" version="~>2.2.1"
+targetPath "out/"
