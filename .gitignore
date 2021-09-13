@@ -15,3 +15,6 @@ nobotspls-test-*
 *.lst
 dub.selections.json
 out/
+
+# THIS FILE CONTAINS TOKENS, DO NOT UPLOAD IT
+config.json
